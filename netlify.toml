@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://1.old.com/*"
+  to = "https://1.new.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://2.old.com/*"
+  to = "https://2.new.com/:splat"
+  status = 301
+  force = true
