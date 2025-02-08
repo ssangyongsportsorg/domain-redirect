@@ -1,6 +1,6 @@
 [[redirects]]
   from = "https://domain1222.netlify.app/*"
-  to = "https://1.new.com/:splat"
+  to = "https://1.new.cjcjcidom/:splat"
   status = 301
   force = true
 
